@@ -4,6 +4,7 @@ import java.time.LocalDateTime;
 import java.util.Objects;
 
 public class Student {
+
     public enum GENDER{
         M,F
     }
